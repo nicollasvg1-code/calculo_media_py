@@ -13,7 +13,7 @@
 # exemplo de uso
 ##### a média e calculada usando: media = (nota1 + nota2) / 2
 
-# autor e contato 
+# autor e contatos
 ##### Nicollas gonçalves venancio
 [meu email](mailto:nicollasvg13@gmail.com)
 
